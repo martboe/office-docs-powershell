@@ -41,7 +41,7 @@ Call Queue: 11cd3e2e-fccb-42ad-ad00-878b93575e07
 ## PARAMETERS
 
 ### -UserPrincipalName
-The user principal name. It will be used as the SIP URI too.
+The user principal name. It will be used as the SIP URI too. Only online domains are supported.
 
 ```yaml
 Type: System.String
